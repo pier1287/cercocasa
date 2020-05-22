@@ -9,6 +9,7 @@
 * Luciana
 * con box
 * 320.000
+* 22 min a piedi dalla stazione. Troppo distante?
 
 ## [Trilocale via Don Giovanni Minzoni 10, Monza (Angolo via Marsala)](https://www.immobiliare.it/annunci/78881531/)
 Nuovo ristrutturato 215.000 (2.200 mq) 80mq
