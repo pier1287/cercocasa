@@ -1,4 +1,4 @@
-## [Trilocale via Marsala 64, Monza](https://salesforce-digital-test.s3-eu-west-1.amazonaws.com/index.html)
+## [Trilocale via Marsala 64, Monza](https://salesforce-digital-test.s3-eu-west-1.amazonaws.com)
 
 * Daniele Ferraro
 * con box
