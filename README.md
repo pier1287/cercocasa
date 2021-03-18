@@ -4,7 +4,7 @@
 * con box
 * Prezzo alto rispetto media(max 260)
 
-## [Quadrilocale via Giuseppe Sirtori 6, Monza (Collega Annalisa)](https://www.immobiliare.it/annunci/78383293)
+## [Quadrilocale via Giuseppe Sirtori 6, Monza (Collega Annalisa)](https://dev-customerportal-ef.pirelli.digital/mobile/success.html)
 
 * Luciana
 * con box
