@@ -1,4 +1,4 @@
-## [Trilocale via Marsala 64, Monza](https://dev-customerportal-ef.pirelli.digital/auth/success)
+## [Trilocale via Marsala 64, Monza](https://dev-customerportal-ef.pirelli.digital)
 
 * Daniele Ferraro
 * con box
