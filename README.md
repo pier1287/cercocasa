@@ -1,4 +1,4 @@
-## [Trilocale via Marsala 64, Monza](https://qlt-www.pirellicare.com/booking/{bookingId})
+## [Trilocale via Marsala 64, Monza](com.pirelli.care://booking/{bookingId})
 
 * Daniele Ferraro
 * con box
